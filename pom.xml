@@ -17,6 +17,17 @@
 
     <packaging>pom</packaging>
 
+    <organization>
+        <name>Sun.God</name>
+    </organization>
+
+    <developers>
+        <developer>
+            <name>Andrija Musikic</name>
+            <organization>Sun.God</organization>
+        </developer>
+    </developers>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
